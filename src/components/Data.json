@@ -1,0 +1,67 @@
+
+[
+    {
+        "id":1,
+        "image": "../images/avatar-mark-webber.webp",
+        "name": "Mark Webber",
+        "paragrap": "reacted to your recent post",
+        "imParagrap": "My first tournament today!",
+        "time": "1m ago",
+        "isRead": false
+    },
+    {
+        "id":2,
+        "image": "../images/avatar-angela-gray.webp",
+        "name": "Angela Gray",
+        "paragrap": "followed you",
+        "imParagrap": "",
+        "time": "5m ago",
+        "isRead": false
+    },
+    {
+        "id":3,
+        "image": "../images/avatar-jacob-thompson.webp",
+        "name": "Jacob Thompson",
+        "paragrap": "has joined your group",
+        "imParagrap": "Chess Club",
+        "time": "1 day ago",
+        "isRead": false
+    },
+    {
+        "id":4,
+        "image": "../images/avatar-rizky-hasanuddin.webp",
+        "name": "Rizky Hasanuddin",
+        "paragrap": "sent you a private message",
+        "imParagrap": "",
+        "time": "5 days ago",
+        "isRead": true
+    },
+    {
+        "id":5,
+        "image": "../images/avatar-kimberly-smith.webp",
+        "name": "Kimberly Smith",
+        "paragrap": "commented on your picture",
+        "imParagrap": "",
+        "time": "1 week ago",
+        "isRead": true
+
+    },
+    {
+        "id":6,
+        "image": "../images/avatar-nathan-peterson.webp",
+        "name": "Nathan Peterson",
+        "paragrap": "reacted to your recent post",
+        "imParagrap": "5 end-game strategies to increase your win rate",
+        "time": "2 weeks ago",
+        "isRead": true
+    },
+    {
+        "id":7,
+        "image": "../images/avatar-anna-kim.webp",
+        "name": "Anna Kim",
+        "paragrap": "left the group",
+        "imParagrap": "Chess Club",
+        "time": "2 weeks ago",
+        "isRead": true
+    }
+]
